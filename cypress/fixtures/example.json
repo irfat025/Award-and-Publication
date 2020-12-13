@@ -1,0 +1,30 @@
+{
+  
+    
+    "password":"123456789",
+  "award_admin":"sujt0002",
+  "user":"mors0002",
+  "home_page_validation":"অনুমোদন",
+  
+    "varification_GRP_Dashboard":" সাপোর্ট",
+    "varification_HRM2_Dashboard":"ড্যাশবোর্ড",
+    "varification_HRM2_home":"ড. অশোক কুমার রায় 1",
+    "employee_name":"ড. অশোক কুমার রায়",
+    "employee_name_English":"Dr Ashok Kumar Roy",
+    "configuration_page_validation":"পুরস্কারের ধরন কনফিগারেশন তালিকা",
+    "dialogue_varification":"পুরস্কারের ধরন কনফিগারেশন তথ্য সংযোজন",
+    "bangla_award_type":"বিশিষ্ট পরিসেবা পদক",
+    "english_award_type":"Distinguish Service Award",
+    "edited_award_type":"বঙ্গবন্ধু জাতীয় কৃষি পুরষ্কার",
+    "varifying_dialogue_edit":"পুরস্কারের ধরন কনফিগারেশন তথ্য সম্পাদনা",
+    "edited_bangla_award_type":"বঙ্গবন্ধু জাতীয় কৃষি পুরষ্কার",
+    "edited_english_award_type":"National Agriculture Awards",
+    "award_title":"টেস্ট অ্যাওয়ার্ড",
+    "organization":"টেস্ট প্রকাশক",
+    "comment":"কোন মন্তব্য নেই ",
+    "tag":"newAward"
+
+
+   
+  
+}
